@@ -1,7 +1,7 @@
 {
     "name": "xpress-init",
     "version": "1.0.0",
-    "description": "A simple tool to set up an Express.js app",
+    "description": "A simple CLI tool to set up an Express.js application",
     "main": "index.js",
     "type": "module",
     "homepage": "https://github.com/AnikAdhikari7/xpress-init#readme",
