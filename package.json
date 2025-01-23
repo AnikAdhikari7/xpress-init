@@ -1,6 +1,6 @@
 {
     "name": "xpress-init",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A simple CLI tool to set up an Express.js application",
     "main": "index.js",
     "type": "module",
@@ -9,10 +9,10 @@
         "url": "https://github.com/AnikAdhikari7/xpress-init/issues"
     },
     "bin": {
-        "xpress-init": "index.js"
+        "xpress-init": "./index.js"
     },
     "scripts": {
-        "start": "npx i xpress-init"
+        "start": "node index.js"
     },
     "repository": {
         "type": "git",
