@@ -1,0 +1,28 @@
+{
+    "name": "xpress-init",
+    "version": "1.0.0",
+    "description": "A simple tool to set up an Express.js app",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "xpress-init": "./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AnikAdhikari7/xpress-init.git"
+    },
+    "keywords": [
+        "express",
+        "init",
+        "setup",
+        "boilerplate",
+        "generator"
+    ],
+    "author": "Anik Adhikari",
+    "license": "MIT",
+    "dependencies": {
+        "simple-git": "^3.19.1",
+        "inquirer": "^9.1.5",
+        "ora": "^6.1.2"
+    }
+}
